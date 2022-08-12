@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rafael-Cardenas
+- 👀 I’m interested in data analysis and project management
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on projects related to data science
+- 📫 How to reach me ... rafa.cardenasg@gmail.com 
